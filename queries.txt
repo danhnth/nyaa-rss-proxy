@@ -1,0 +1,4 @@
+# One Nyaa search query per line. Lines starting with # are ignored.
+# Add a line, push, and the next run generates feed-<slug>.json for it.
+# A one-off override is also possible via Actions -> fetch-nyaa -> Run workflow -> queries.
+bang dream
