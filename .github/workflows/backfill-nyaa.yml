@@ -1,0 +1,37 @@
+name: backfill-nyaa
+on:
+  workflow_dispatch:
+    inputs:
+      query:
+        description: 'Nyaa query to backfill, or "all" for every line in queries.txt'
+        required: false
+        default: "bang dream"
+      pages:
+        description: "Max search pages to walk (1-50, ~75 items each)"
+        required: false
+        default: "10"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: backfill-nyaa
+  cancel-in-progress: true
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python backfill_nyaa.py
+        env:
+          NYAA_BACKFILL_QUERY: ${{ inputs.query }}
+          NYAA_BACKFILL_PAGES: ${{ inputs.pages }}
+      - run: |
+          git config user.name "nyaa-bot"
+          git config user.email "nyaa-bot@users.noreply.github.com"
+          git add catalog-*.json
+          git diff --cached --quiet || (git commit -m "backfill $(date -u +%FT%TZ)" && git push)
