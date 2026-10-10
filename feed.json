@@ -2,7 +2,7 @@
  "ok": true,
  "count": 75,
  "query": "bang dream",
- "updated": "2026-10-09T18:16:25.735501+00:00",
+ "updated": "2026-10-10T05:32:52.591940+00:00",
  "items": [
   {
    "title": "[JMAX] [2026.10.02] BanG Dream! - Hello! Wink! (パラレルver.) [FLAC 96kHz/24bit]",
@@ -11,9 +11,9 @@
    "pubDate": "Thu, 01 Oct 2026 15:01:35 -0000",
    "infoHash": "3b2eeae201cfcc2fcbe13ab6ba96ad71a271ab93",
    "size": "105.6 MiB",
-   "seeders": "20",
-   "leechers": "3",
-   "downloads": "932",
+   "seeders": "28",
+   "leechers": "2",
+   "downloads": "938",
    "category": "Audio - Lossless"
   },
   {
@@ -23,9 +23,9 @@
    "pubDate": "Tue, 29 Sep 2026 15:03:50 -0000",
    "infoHash": "0c2ab4fcfd5bf9b2e4e29c6a9b885f24dbe27cbf",
    "size": "175.6 MiB",
-   "seeders": "28",
-   "leechers": "12",
-   "downloads": "1276",
+   "seeders": "34",
+   "leechers": "2",
+   "downloads": "1281",
    "category": "Audio - Lossless"
   },
   {
@@ -35,9 +35,9 @@
    "pubDate": "Tue, 29 Sep 2026 15:03:47 -0000",
    "infoHash": "9fba833981d7857874288cebb8fd53cdc238e24c",
    "size": "166.6 MiB",
-   "seeders": "42",
-   "leechers": "3",
-   "downloads": "1498",
+   "seeders": "47",
+   "leechers": "12",
+   "downloads": "1508",
    "category": "Audio - Lossless"
   },
   {
@@ -47,9 +47,9 @@
    "pubDate": "Tue, 29 Sep 2026 15:03:43 -0000",
    "infoHash": "a56b64c624d8f2977c2612fb51a27c8e05e36a7f",
    "size": "136.6 MiB",
-   "seeders": "25",
-   "leechers": "4",
-   "downloads": "1228",
+   "seeders": "35",
+   "leechers": "1",
+   "downloads": "1230",
    "category": "Audio - Lossless"
   },
   {
@@ -59,9 +59,9 @@
    "pubDate": "Sun, 27 Sep 2026 15:01:24 -0000",
    "infoHash": "beffdac7e2be75e9f1edd5670e8c3819e4d50410",
    "size": "46.5 MiB",
-   "seeders": "21",
-   "leechers": "16",
-   "downloads": "1169",
+   "seeders": "28",
+   "leechers": "1",
+   "downloads": "1173",
    "category": "Audio - Lossless"
   },
   {
@@ -71,9 +71,9 @@
    "pubDate": "Wed, 23 Sep 2026 12:21:00 -0000",
    "infoHash": "6bf63c95d4e159fbf7fadd2f45757ece2f61d865",
    "size": "83.0 MiB",
-   "seeders": "25",
-   "leechers": "3",
-   "downloads": "1437",
+   "seeders": "30",
+   "leechers": "19",
+   "downloads": "1439",
    "category": "Audio - Lossless"
   },
   {
@@ -83,9 +83,9 @@
    "pubDate": "Tue, 22 Sep 2026 15:01:21 -0000",
    "infoHash": "d23565d9c77e7c0c4a7eeada5811b6f04a34d0a9",
    "size": "60.0 MiB",
-   "seeders": "18",
-   "leechers": "2",
-   "downloads": "1228",
+   "seeders": "22",
+   "leechers": "3",
+   "downloads": "1231",
    "category": "Audio - Lossless"
   },
   {
@@ -95,9 +95,9 @@
    "pubDate": "Tue, 22 Sep 2026 12:33:52 -0000",
    "infoHash": "6fd75d5e759f06abc1654df54a6e9deb00727ec6",
    "size": "102.8 MiB",
-   "seeders": "27",
-   "leechers": "4",
-   "downloads": "1367",
+   "seeders": "26",
+   "leechers": "3",
+   "downloads": "1374",
    "category": "Audio - Lossless"
   },
   {
@@ -107,9 +107,9 @@
    "pubDate": "Sun, 20 Sep 2026 15:01:31 -0000",
    "infoHash": "aa35c68095f697c4a2060931e140c866a9deec0e",
    "size": "96.9 MiB",
-   "seeders": "15",
+   "seeders": "20",
    "leechers": "2",
-   "downloads": "1251",
+   "downloads": "1254",
    "category": "Audio - Lossless"
   },
   {
@@ -119,9 +119,9 @@
    "pubDate": "Thu, 17 Sep 2026 15:01:36 -0000",
    "infoHash": "31cfb08a7137863d737cc6b05a36629ec3db18d8",
    "size": "88.3 MiB",
-   "seeders": "16",
-   "leechers": "6",
-   "downloads": "1217",
+   "seeders": "23",
+   "leechers": "8",
+   "downloads": "1219",
    "category": "Audio - Lossless"
   },
   {
@@ -131,7 +131,7 @@
    "pubDate": "Wed, 16 Sep 2026 15:01:42 -0000",
    "infoHash": "863c009f0874397edccc4384ba0f3569e705b434",
    "size": "44.7 MiB",
-   "seeders": "18",
+   "seeders": "20",
    "leechers": "0",
    "downloads": "1224",
    "category": "Audio - Lossless"
@@ -143,9 +143,9 @@
    "pubDate": "Mon, 14 Sep 2026 15:06:39 -0000",
    "infoHash": "e901e446aa2e27e7516f0e2e8c890e338844ba28",
    "size": "34.1 MiB",
-   "seeders": "19",
-   "leechers": "1",
-   "downloads": "1225",
+   "seeders": "22",
+   "leechers": "8",
+   "downloads": "1226",
    "category": "Audio - Lossless"
   },
   {
@@ -155,8 +155,8 @@
    "pubDate": "Thu, 10 Sep 2026 15:11:23 -0000",
    "infoHash": "0b8417fec1e176778e1e2f74d702f4e7ddaa0d5b",
    "size": "51.1 MiB",
-   "seeders": "25",
-   "leechers": "3",
+   "seeders": "31",
+   "leechers": "14",
    "downloads": "1512",
    "category": "Audio - Lossless"
   },
@@ -167,9 +167,9 @@
    "pubDate": "Thu, 10 Sep 2026 15:11:19 -0000",
    "infoHash": "f255ae21e7a256e94d4d8058f14d4da198a8e09a",
    "size": "43.2 MiB",
-   "seeders": "20",
-   "leechers": "32",
-   "downloads": "1504",
+   "seeders": "25",
+   "leechers": "3",
+   "downloads": "1505",
    "category": "Audio - Lossless"
   },
   {
@@ -179,9 +179,9 @@
    "pubDate": "Thu, 10 Sep 2026 11:01:35 -0000",
    "infoHash": "fd43ed6099b071db644d903c106baf7bea9b49fb",
    "size": "82.1 MiB",
-   "seeders": "18",
-   "leechers": "0",
-   "downloads": "1480",
+   "seeders": "20",
+   "leechers": "10",
+   "downloads": "1481",
    "category": "Audio - Lossless"
   },
   {
@@ -191,9 +191,9 @@
    "pubDate": "Fri, 04 Sep 2026 12:14:43 -0000",
    "infoHash": "a08781f55d205c0b794c1340f0a830d96deb5544",
    "size": "85.9 MiB",
-   "seeders": "21",
-   "leechers": "3",
-   "downloads": "1330",
+   "seeders": "23",
+   "leechers": "1",
+   "downloads": "1332",
    "category": "Audio - Lossless"
   },
   {
@@ -203,8 +203,8 @@
    "pubDate": "Tue, 01 Sep 2026 15:01:43 -0000",
    "infoHash": "bcb05748a74fee868002d5270ae9c8d3508be08b",
    "size": "89.9 MiB",
-   "seeders": "17",
-   "leechers": "1",
+   "seeders": "22",
+   "leechers": "12",
    "downloads": "1172",
    "category": "Audio - Lossless"
   },
@@ -216,8 +216,8 @@
    "infoHash": "0076c384d75887137e2a33e8fd505c1de847ac0f",
    "size": "91.6 MiB",
    "seeders": "38",
-   "leechers": "10",
-   "downloads": "1530",
+   "leechers": "1",
+   "downloads": "1535",
    "category": "Audio - Lossless"
   },
   {
@@ -227,9 +227,9 @@
    "pubDate": "Thu, 27 Aug 2026 12:01:22 -0000",
    "infoHash": "ba9a6eb62646fecd7d73716885ebd44573cd9693",
    "size": "59.0 MiB",
-   "seeders": "26",
-   "leechers": "12",
-   "downloads": "1516",
+   "seeders": "31",
+   "leechers": "5",
+   "downloads": "1517",
    "category": "Audio - Lossless"
   },
   {
@@ -239,8 +239,8 @@
    "pubDate": "Tue, 25 Aug 2026 12:25:23 -0000",
    "infoHash": "4e83225ea321562253d7c298a8f975ff97330fe5",
    "size": "2.4 GiB",
-   "seeders": "44",
-   "leechers": "4",
+   "seeders": "43",
+   "leechers": "2",
    "downloads": "2185",
    "category": "Audio - Lossless"
   },
@@ -251,9 +251,9 @@
    "pubDate": "Thu, 13 Aug 2026 12:01:57 -0000",
    "infoHash": "0fadfe6267b8101b4d5508414ed34b6736e8e4ca",
    "size": "28.7 MiB",
-   "seeders": "24",
-   "leechers": "32",
-   "downloads": "1758",
+   "seeders": "30",
+   "leechers": "5",
+   "downloads": "1760",
    "category": "Audio - Lossless"
   },
   {
@@ -263,9 +263,9 @@
    "pubDate": "Thu, 06 Aug 2026 12:01:59 -0000",
    "infoHash": "2213ba8c5b53bb5f90cf6c479174a110963592bc",
    "size": "44.1 MiB",
-   "seeders": "25",
-   "leechers": "0",
-   "downloads": "1729",
+   "seeders": "31",
+   "leechers": "2",
+   "downloads": "1730",
    "category": "Audio - Lossless"
   },
   {
@@ -276,8 +276,8 @@
    "infoHash": "af50aa620c8dd45412d885f3eb70c9d6ac614dac",
    "size": "66.2 MiB",
    "seeders": "28",
-   "leechers": "13",
-   "downloads": "1847",
+   "leechers": "4",
+   "downloads": "1848",
    "category": "Audio - Lossless"
   },
   {
@@ -288,8 +288,8 @@
    "infoHash": "c9e3b4bad29216856b03485236e452df3a61a769",
    "size": "59.5 MiB",
    "seeders": "25",
-   "leechers": "2",
-   "downloads": "1778",
+   "leechers": "16",
+   "downloads": "1780",
    "category": "Audio - Lossless"
   },
   {
@@ -299,9 +299,9 @@
    "pubDate": "Sun, 19 Jul 2026 12:01:22 -0000",
    "infoHash": "a2e4a202ace5c676e5c4700217c648b4fb80b521",
    "size": "80.5 MiB",
-   "seeders": "16",
-   "leechers": "5",
-   "downloads": "1605",
+   "seeders": "18",
+   "leechers": "11",
+   "downloads": "1607",
    "category": "Audio - Lossless"
   },
   {
@@ -311,9 +311,9 @@
    "pubDate": "Sat, 18 Jul 2026 12:01:21 -0000",
    "infoHash": "a58817f6d44556d2f173fbb564da229a4030a67f",
    "size": "85.3 MiB",
-   "seeders": "28",
+   "seeders": "23",
    "leechers": "0",
-   "downloads": "1793",
+   "downloads": "1796",
    "category": "Audio - Lossless"
   },
   {
@@ -323,9 +323,9 @@
    "pubDate": "Tue, 14 Jul 2026 12:04:35 -0000",
    "infoHash": "438e158f1392c50475c4384f55ad50cdcbc37076",
    "size": "884.4 MiB",
-   "seeders": "32",
-   "leechers": "0",
-   "downloads": "1995",
+   "seeders": "37",
+   "leechers": "3",
+   "downloads": "1996",
    "category": "Audio - Lossless"
   },
   {
@@ -335,8 +335,8 @@
    "pubDate": "Tue, 14 Jul 2026 10:51:27 -0000",
    "infoHash": "84b278e7629d0543acefb7f159cff5bf13817175",
    "size": "309.7 MiB",
-   "seeders": "15",
-   "leechers": "1",
+   "seeders": "13",
+   "leechers": "41",
    "downloads": "1363",
    "category": "Audio - Lossless"
   },
@@ -347,9 +347,9 @@
    "pubDate": "Sun, 21 Jun 2026 11:56:44 -0000",
    "infoHash": "de7d4b05806586d157a0efd3b705edf2adb5af1e",
    "size": "89.5 MiB",
-   "seeders": "23",
-   "leechers": "11",
-   "downloads": "2074",
+   "seeders": "27",
+   "leechers": "1",
+   "downloads": "2076",
    "category": "Audio - Lossless"
   },
   {
@@ -359,9 +359,9 @@
    "pubDate": "Tue, 16 Jun 2026 12:14:56 -0000",
    "infoHash": "6472fa25d4be1b0d59e3a7c845f62a82e910c295",
    "size": "1.3 GiB",
-   "seeders": "44",
-   "leechers": "5",
-   "downloads": "2368",
+   "seeders": "53",
+   "leechers": "21",
+   "downloads": "2371",
    "category": "Audio - Lossless"
   },
   {
@@ -371,8 +371,8 @@
    "pubDate": "Tue, 16 Jun 2026 10:56:27 -0000",
    "infoHash": "bd35cdade44e47646ec8d9b5d02b116b5cdf7f42",
    "size": "450.4 MiB",
-   "seeders": "17",
-   "leechers": "4",
+   "seeders": "14",
+   "leechers": "2",
    "downloads": "1580",
    "category": "Audio - Lossless"
   },
@@ -383,7 +383,7 @@
    "pubDate": "Thu, 11 Jun 2026 00:37:49 -0000",
    "infoHash": "c235e2178ce0ef2ed21a04bf2615e330a65b627d",
    "size": "125.4 MiB",
-   "seeders": "7",
+   "seeders": "11",
    "leechers": "1",
    "downloads": "583",
    "category": "Audio - Lossless"
@@ -395,7 +395,7 @@
    "pubDate": "Tue, 09 Jun 2026 12:05:39 -0000",
    "infoHash": "ecd03938ccd4520528e80b133e13bd9574306177",
    "size": "153.0 MiB",
-   "seeders": "14",
+   "seeders": "16",
    "leechers": "0",
    "downloads": "1747",
    "category": "Audio - Lossless"
@@ -407,7 +407,7 @@
    "pubDate": "Sun, 07 Jun 2026 21:41:23 -0000",
    "infoHash": "4a9a2d9572291b647a37364803ce7560ba559de2",
    "size": "109.2 MiB",
-   "seeders": "6",
+   "seeders": "10",
    "leechers": "1",
    "downloads": "634",
    "category": "Audio - Lossless"
@@ -419,9 +419,9 @@
    "pubDate": "Tue, 12 May 2026 12:05:12 -0000",
    "infoHash": "e49c6361248d4010c296b220a0792170142423c5",
    "size": "136.1 MiB",
-   "seeders": "19",
+   "seeders": "22",
    "leechers": "0",
-   "downloads": "1695",
+   "downloads": "1696",
    "category": "Audio - Lossless"
   },
   {
@@ -431,8 +431,8 @@
    "pubDate": "Tue, 12 May 2026 11:12:48 -0000",
    "infoHash": "70f31e674b22355a74d75722121b486281ccf2c2",
    "size": "49.5 MiB",
-   "seeders": "12",
-   "leechers": "0",
+   "seeders": "13",
+   "leechers": "1",
    "downloads": "1231",
    "category": "Audio - Lossless"
   },
@@ -443,7 +443,7 @@
    "pubDate": "Wed, 06 May 2026 12:01:24 -0000",
    "infoHash": "2667ec930b55455f22d6ef84e5d719c50fcccfce",
    "size": "73.7 MiB",
-   "seeders": "13",
+   "seeders": "14",
    "leechers": "0",
    "downloads": "1534",
    "category": "Audio - Lossless"
@@ -455,7 +455,7 @@
    "pubDate": "Fri, 01 May 2026 12:01:35 -0000",
    "infoHash": "ba63d54aa6b2ae51a6f270a0e012a2566e50241e",
    "size": "86.2 MiB",
-   "seeders": "23",
+   "seeders": "21",
    "leechers": "0",
    "downloads": "1825",
    "category": "Audio - Lossless"
@@ -467,8 +467,8 @@
    "pubDate": "Tue, 28 Apr 2026 12:03:48 -0000",
    "infoHash": "d76cd3b4ec10e2151c3a019391f25cd30b82d401",
    "size": "168.9 MiB",
-   "seeders": "25",
-   "leechers": "6",
+   "seeders": "22",
+   "leechers": "3",
    "downloads": "2165",
    "category": "Audio - Lossless"
   },
@@ -479,8 +479,8 @@
    "pubDate": "Tue, 28 Apr 2026 12:03:44 -0000",
    "infoHash": "c06a9908c90b2b764ae4e57abf9b9bd89592ad0f",
    "size": "149.7 MiB",
-   "seeders": "20",
-   "leechers": "12",
+   "seeders": "21",
+   "leechers": "31",
    "downloads": "1731",
    "category": "Audio - Lossless"
   },
@@ -491,8 +491,8 @@
    "pubDate": "Tue, 21 Apr 2026 12:03:01 -0000",
    "infoHash": "eb9ab45daf8fd5fb7cd27c4680f36fdc94ed305c",
    "size": "227.3 MiB",
-   "seeders": "18",
-   "leechers": "0",
+   "seeders": "19",
+   "leechers": "2",
    "downloads": "1634",
    "category": "Audio - Lossless"
   },
@@ -503,7 +503,7 @@
    "pubDate": "Tue, 31 Mar 2026 12:39:53 -0000",
    "infoHash": "389adc931ef06197fe15a0df45395d1cce8d384f",
    "size": "93.2 MiB",
-   "seeders": "15",
+   "seeders": "16",
    "leechers": "0",
    "downloads": "1295",
    "category": "Audio - Lossless"
@@ -515,7 +515,7 @@
    "pubDate": "Tue, 24 Mar 2026 11:01:46 -0000",
    "infoHash": "40490a0915a962167a489eb5600da4cc2de0afe6",
    "size": "81.5 MiB",
-   "seeders": "15",
+   "seeders": "16",
    "leechers": "0",
    "downloads": "1351",
    "category": "Audio - Lossless"
@@ -527,7 +527,7 @@
    "pubDate": "Mon, 23 Mar 2026 11:01:45 -0000",
    "infoHash": "ee049740e22767f7d75c14947038c90e93a6c3f5",
    "size": "100.4 MiB",
-   "seeders": "13",
+   "seeders": "12",
    "leechers": "0",
    "downloads": "1294",
    "category": "Audio - Lossless"
@@ -539,7 +539,7 @@
    "pubDate": "Sat, 21 Mar 2026 11:01:48 -0000",
    "infoHash": "4fce39472365bca659512a5568987faf0ab359d5",
    "size": "85.8 MiB",
-   "seeders": "19",
+   "seeders": "20",
    "leechers": "0",
    "downloads": "1787",
    "category": "Audio - Lossless"
@@ -551,7 +551,7 @@
    "pubDate": "Fri, 20 Mar 2026 11:01:30 -0000",
    "infoHash": "feb1f53aa5b3a1660d853c158710475f90d20074",
    "size": "64.0 MiB",
-   "seeders": "11",
+   "seeders": "13",
    "leechers": "1",
    "downloads": "1380",
    "category": "Audio - Lossless"
@@ -563,7 +563,7 @@
    "pubDate": "Thu, 19 Mar 2026 11:02:01 -0000",
    "infoHash": "d7ead327c06b4223b464101399bd102fcede3077",
    "size": "88.4 MiB",
-   "seeders": "11",
+   "seeders": "12",
    "leechers": "0",
    "downloads": "1421",
    "category": "Audio - Lossless"
@@ -575,7 +575,7 @@
    "pubDate": "Wed, 18 Mar 2026 11:01:45 -0000",
    "infoHash": "e23b707651e542414c4fd14fcbf8c89c7196dfe3",
    "size": "79.7 MiB",
-   "seeders": "16",
+   "seeders": "17",
    "leechers": "0",
    "downloads": "1692",
    "category": "Audio - Lossless"
@@ -587,7 +587,7 @@
    "pubDate": "Tue, 17 Mar 2026 11:05:37 -0000",
    "infoHash": "0dc816afd838c09c86e2bcc36714d2882f16133f",
    "size": "70.2 MiB",
-   "seeders": "13",
+   "seeders": "17",
    "leechers": "0",
    "downloads": "1734",
    "category": "Audio - Lossless"
@@ -599,7 +599,7 @@
    "pubDate": "Mon, 16 Mar 2026 11:01:23 -0000",
    "infoHash": "ab12c07418ddc85f6582b249a4577804fbedefd4",
    "size": "79.7 MiB",
-   "seeders": "13",
+   "seeders": "17",
    "leechers": "0",
    "downloads": "1438",
    "category": "Audio - Lossless"
@@ -611,7 +611,7 @@
    "pubDate": "Sun, 15 Mar 2026 11:02:22 -0000",
    "infoHash": "70bd50863236cf47123e95a531693507a1b86aab",
    "size": "82.0 MiB",
-   "seeders": "14",
+   "seeders": "13",
    "leechers": "0",
    "downloads": "1486",
    "category": "Audio - Lossless"
@@ -623,7 +623,7 @@
    "pubDate": "Sun, 15 Mar 2026 11:02:18 -0000",
    "infoHash": "bf2ca78fd579e9fc5344fa8c27ca5f6fe19af689",
    "size": "88.4 MiB",
-   "seeders": "10",
+   "seeders": "9",
    "leechers": "0",
    "downloads": "1481",
    "category": "Audio - Lossless"
@@ -648,7 +648,7 @@
    "infoHash": "1375fc451e25c05b6f86e6bb6cae15e232d36987",
    "size": "82.4 GiB",
    "seeders": "17",
-   "leechers": "5",
+   "leechers": "6",
    "downloads": "556",
    "category": "Audio - Lossless"
   },
@@ -659,9 +659,9 @@
    "pubDate": "Sun, 01 Mar 2026 11:03:44 -0000",
    "infoHash": "0b4cfafa2744c9b259700f4eab96ce5eb7e5b377",
    "size": "83.0 MiB",
-   "seeders": "26",
+   "seeders": "19",
    "leechers": "0",
-   "downloads": "1754",
+   "downloads": "1755",
    "category": "Audio - Lossless"
   },
   {
@@ -671,9 +671,9 @@
    "pubDate": "Sun, 01 Mar 2026 11:03:41 -0000",
    "infoHash": "8c9f04beef8d2daa2ac249c54c74e2dddff1e9f5",
    "size": "71.7 MiB",
-   "seeders": "39",
+   "seeders": "35",
    "leechers": "0",
-   "downloads": "2073",
+   "downloads": "2079",
    "category": "Audio - Lossless"
   },
   {
@@ -683,9 +683,9 @@
    "pubDate": "Sun, 01 Mar 2026 11:03:37 -0000",
    "infoHash": "a1bbe9e95db9103cc5645f2d5aa8e56495a1f991",
    "size": "73.9 MiB",
-   "seeders": "29",
+   "seeders": "20",
    "leechers": "0",
-   "downloads": "1891",
+   "downloads": "1892",
    "category": "Audio - Lossless"
   },
   {
@@ -719,7 +719,7 @@
    "pubDate": "Sun, 04 Jan 2026 11:02:33 -0000",
    "infoHash": "6205b463e7b1dbe352b22b4322534c64b5a9993e",
    "size": "100.1 MiB",
-   "seeders": "13",
+   "seeders": "12",
    "leechers": "0",
    "downloads": "1436",
    "category": "Audio - Lossless"
@@ -731,7 +731,7 @@
    "pubDate": "Sat, 03 Jan 2026 11:02:42 -0000",
    "infoHash": "812e5a5664477513ad441630e3635f19365a71e6",
    "size": "83.4 MiB",
-   "seeders": "12",
+   "seeders": "10",
    "leechers": "0",
    "downloads": "1444",
    "category": "Audio - Lossless"
@@ -743,7 +743,7 @@
    "pubDate": "Thu, 25 Dec 2025 11:02:35 -0000",
    "infoHash": "5a18dc9eb80bd09346777313633e2acd8d3838ea",
    "size": "89.7 MiB",
-   "seeders": "7",
+   "seeders": "10",
    "leechers": "0",
    "downloads": "1371",
    "category": "Audio - Lossless"
@@ -755,7 +755,7 @@
    "pubDate": "Thu, 25 Dec 2025 10:29:23 -0000",
    "infoHash": "5f5f11c5334e5c0fc4b0f454b6b9318bf0f7282b",
    "size": "31.5 MiB",
-   "seeders": "10",
+   "seeders": "9",
    "leechers": "0",
    "downloads": "1509",
    "category": "Audio - Lossless"
@@ -767,9 +767,9 @@
    "pubDate": "Tue, 23 Dec 2025 11:10:12 -0000",
    "infoHash": "f786737836db844295de59065791227424c45caf",
    "size": "1.1 GiB",
-   "seeders": "19",
-   "leechers": "2",
-   "downloads": "1860",
+   "seeders": "21",
+   "leechers": "1",
+   "downloads": "1861",
    "category": "Audio - Lossless"
   },
   {
@@ -791,8 +791,8 @@
    "pubDate": "Tue, 09 Dec 2025 11:02:34 -0000",
    "infoHash": "002211076b4009fe8e2434c64db43b337ecc9a3c",
    "size": "165.2 MiB",
-   "seeders": "39",
-   "leechers": "1",
+   "seeders": "32",
+   "leechers": "0",
    "downloads": "2259",
    "category": "Audio - Lossless"
   },
@@ -803,7 +803,7 @@
    "pubDate": "Tue, 09 Dec 2025 10:22:52 -0000",
    "infoHash": "1ebdf07f8587bbdac439b2e3ce1980cdfa70d61e",
    "size": "55.7 MiB",
-   "seeders": "15",
+   "seeders": "12",
    "leechers": "0",
    "downloads": "1249",
    "category": "Audio - Lossless"
@@ -815,7 +815,7 @@
    "pubDate": "Tue, 02 Dec 2025 11:02:55 -0000",
    "infoHash": "e217a4574b80826082956fb868407921840f578c",
    "size": "186.5 MiB",
-   "seeders": "21",
+   "seeders": "23",
    "leechers": "0",
    "downloads": "1533",
    "category": "Audio - Lossless"
@@ -827,7 +827,7 @@
    "pubDate": "Tue, 02 Dec 2025 10:28:10 -0000",
    "infoHash": "c643e31c141f4d5ebf87b983f2bd1042e14854a6",
    "size": "63.6 MiB",
-   "seeders": "9",
+   "seeders": "6",
    "leechers": "0",
    "downloads": "910",
    "category": "Audio - Lossless"
@@ -851,7 +851,7 @@
    "pubDate": "Tue, 18 Nov 2025 11:02:20 -0000",
    "infoHash": "73f9f71abd1a1aa791d95d0f9cd071c671462622",
    "size": "147.0 MiB",
-   "seeders": "17",
+   "seeders": "11",
    "leechers": "0",
    "downloads": "1636",
    "category": "Audio - Lossless"
@@ -863,7 +863,7 @@
    "pubDate": "Tue, 18 Nov 2025 10:30:39 -0000",
    "infoHash": "b29ec7b46d5eef77ed781cdb34b61d70e0c3742d",
    "size": "59.8 MiB",
-   "seeders": "5",
+   "seeders": "4",
    "leechers": "0",
    "downloads": "975",
    "category": "Audio - Lossless"
@@ -875,7 +875,7 @@
    "pubDate": "Tue, 11 Nov 2025 11:02:45 -0000",
    "infoHash": "a4ddcef1bd015d61704c5ee2ab1b15a1a6a541e2",
    "size": "264.3 MiB",
-   "seeders": "13",
+   "seeders": "10",
    "leechers": "0",
    "downloads": "1705",
    "category": "Audio - Lossless"
@@ -887,7 +887,7 @@
    "pubDate": "Mon, 10 Nov 2025 11:18:22 -0000",
    "infoHash": "834d80ddd54ed596fae33206a635d0d7287e7a30",
    "size": "65.3 MiB",
-   "seeders": "9",
+   "seeders": "10",
    "leechers": "0",
    "downloads": "1339",
    "category": "Audio - Lossless"
